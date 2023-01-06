@@ -1,0 +1,63 @@
+,From amino acid ,To amino acid 
+Signal peptide,1,27
+NH2 unique region,28,52
+4-Cys motif LTBP-like,53,80
+EGF-like #01,81,112
+EGF-like #02,115,146
+EGF-like #03,147,178
+Hybrid module #01,179,245
+cb EGF-like #01,246,287
+cbEGF-like #02,288,329
+TGFBP #01,330,401
+Proline-rich,402,446
+EGF-like #04,449,489
+cb EGF-like #03,490,529
+cb EGF-like #04,530,571
+cb EGF-like #05,572,612
+cb EGF-like #06,613,653
+TGFBP #02,654,721
+cb EGF-like #07,723,764
+cb EGF-like #08,765,806
+cb EGF-like #09,807,846
+Hybrid motif #02,847,909
+cb EGF-like #10,910,951
+TGFBP #03,952,1018
+cb EGF-like #11,1028,1069
+cb EGF-like #12,1070,1112
+cb EGF-like #13,1113,1154
+cb EGF-like #14,1155,1196
+cb EGF-like #15,1197,1237
+cb EGF-like #16,1238,1279
+cb EGF-like #17,1280,1321
+cb EGF-like #18,1322,1362
+cb EGF-like #19,1363,1403
+cb EGF-like #20,1404,1445
+cb EGF-like #21,1446,1486
+cb EGF-like #22,1487,1527
+TGFBP #04,1528,1599
+cb EGF-like #23,1606,1647
+cb EGF-like #24,1648,1688
+TGFBP #05,1689,1758
+cb EGF-like #25,1766,1807
+cb EGF-like #26,1808,1848
+cb EGF-like #27,1849,1890
+cb EGF-like #28,1891,1929
+cb EGF-like #29,1930,1972
+cbEGF-like #30,1973,2012
+cbEGF-like #31,2013,2054
+TGFBP #06,2055,2121
+cb EGF-like #32,2127,2165
+cb EGF-like #33,2166,2205
+cb EGF-like #34,2206,2246
+cb EGF-like #35,2247,2290
+cb EGF-like #36,2291,2332
+TGFBP #07,2333,2400
+cb EGF-like #37,2402,2443
+cb EGF-like #38,2444,2484
+cb EGF-like #39,2485,2523
+cb EGF-like #40,2524,2566
+cb EGF-like #41,2567,2606
+cb EGF-like #42,2607,2647
+cb EGF-like #43,2648,2687
+COOH unique region,2688,2710
+FibuCTDIII-like motif,2711,2871
